@@ -1,4 +1,4 @@
-编写了一个集合了字体，声音，图片的web预加载。适合在移动端使用。<br>
+编写了一个集合了字体，声音，图片的web预加载。适合在移动端活动页/cnavas中使用。<br>
 ### demo中的load根据需求自己更改<br>
 ```javascript
 new Loading({
